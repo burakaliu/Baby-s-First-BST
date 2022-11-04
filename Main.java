@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
+        
+        //sorry future me for lack of comments, i was very tired when I wrote this code
+        
         BST<Integer> tree = new BST<Integer>();
         System.out.println("\n inserting 1 now");
         tree.insert(1);
